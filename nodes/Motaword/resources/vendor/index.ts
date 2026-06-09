@@ -74,7 +74,7 @@ export const vendorDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporateId",
 			"type": "number",
 			"default": 0,

@@ -197,7 +197,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -234,7 +234,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -297,7 +297,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -315,7 +315,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Glossary Id",
+			"displayName": "Glossary ID",
 			"name": "glossaryId",
 			"required": true,
 			"description": "Glossary ID",
@@ -352,7 +352,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -370,7 +370,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Glossary Id",
+			"displayName": "Glossary ID",
 			"name": "glossaryId",
 			"required": true,
 			"description": "Glossary ID",
@@ -407,7 +407,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -425,7 +425,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Glossary Id",
+			"displayName": "Glossary ID",
 			"name": "glossaryId",
 			"required": true,
 			"description": "Glossary ID",
@@ -488,7 +488,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -506,7 +506,7 @@ export const glossaryDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Glossary Id",
+			"displayName": "Glossary ID",
 			"name": "glossaryId",
 			"required": true,
 			"description": "Glossary ID",

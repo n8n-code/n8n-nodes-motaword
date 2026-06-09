@@ -253,7 +253,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -314,7 +314,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -332,7 +332,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID/Name",
@@ -369,7 +369,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -406,7 +406,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -449,7 +449,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "File Id",
+			"displayName": "File ID",
 			"name": "file_id",
 			"description": "Continuous Project File ID",
 			"default": 0,
@@ -493,7 +493,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -555,7 +555,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -598,7 +598,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "File Id",
+			"displayName": "File ID",
 			"name": "file_id",
 			"description": "Continuous Project File ID",
 			"default": 0,
@@ -642,7 +642,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -660,7 +660,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -697,7 +697,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -715,7 +715,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -770,7 +770,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -807,7 +807,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -894,7 +894,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -957,7 +957,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -1062,7 +1062,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -1143,7 +1143,7 @@ export const stringsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",

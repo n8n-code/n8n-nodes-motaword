@@ -148,7 +148,7 @@ export const pamDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Thread Id",
+			"displayName": "Thread ID",
 			"name": "thread_id",
 			"type": "string",
 			"default": "",
@@ -217,7 +217,7 @@ export const pamDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Client Id",
+			"displayName": "Client ID",
 			"name": "clientId",
 			"required": true,
 			"description": "Client ID",
@@ -254,7 +254,7 @@ export const pamDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Quote ID",

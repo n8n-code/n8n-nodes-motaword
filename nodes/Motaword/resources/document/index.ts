@@ -347,7 +347,7 @@ export const documentDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Id",
+					"name": "ID",
 					"value": "id"
 				},
 				{
@@ -480,7 +480,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID or filename",
@@ -517,7 +517,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -554,7 +554,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -591,7 +591,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -678,7 +678,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -696,7 +696,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "From File Id",
+			"displayName": "From File ID",
 			"name": "fromFileId",
 			"type": "number",
 			"default": 0,
@@ -720,7 +720,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "From Manual Translation File Id",
+			"displayName": "From Manual Translation File ID",
 			"name": "fromManualTranslationFileId",
 			"type": "number",
 			"default": 0,
@@ -744,7 +744,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "To Manual Translation File Id",
+			"displayName": "To Manual Translation File ID",
 			"name": "toManualTranslationFileId",
 			"type": "number",
 			"default": 0,
@@ -787,7 +787,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -877,7 +877,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "From Manual Translation File Id",
+			"displayName": "From Manual Translation File ID",
 			"name": "fromManualTranslationFileId",
 			"type": "number",
 			"default": 0,
@@ -968,7 +968,7 @@ export const documentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -1188,7 +1188,7 @@ export const documentDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Id",
+					"name": "ID",
 					"value": "id"
 				},
 				{

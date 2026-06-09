@@ -151,7 +151,7 @@ export const authDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "user_id",
 			"type": "number",
 			"default": 0,

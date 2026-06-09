@@ -1739,7 +1739,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporate_id",
 			"type": "number",
 			"default": 0,
@@ -1909,7 +1909,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -3027,7 +3027,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "json",
 			"default": "[\n  null\n]",
@@ -3483,7 +3483,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Skype Id",
+			"displayName": "Skype ID",
 			"name": "skype_id",
 			"type": "string",
 			"default": "",
@@ -4116,7 +4116,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4153,7 +4153,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4206,7 +4206,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4243,7 +4243,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4280,7 +4280,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4317,7 +4317,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4354,7 +4354,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4391,7 +4391,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4428,7 +4428,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4586,7 +4586,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4744,7 +4744,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4781,7 +4781,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4940,7 +4940,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -4977,7 +4977,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5040,7 +5040,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5077,7 +5077,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5114,7 +5114,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5186,7 +5186,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5223,7 +5223,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5260,7 +5260,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5297,7 +5297,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5359,7 +5359,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5396,7 +5396,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5433,7 +5433,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -5451,7 +5451,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Allow Hash In Url",
+			"displayName": "Allow Hash In URL",
 			"name": "allow_hash_in_url",
 			"type": "boolean",
 			"default": true,
@@ -5476,7 +5476,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Allow Query In Url",
+			"displayName": "Allow Query In URL",
 			"name": "allow_query_in_url",
 			"type": "boolean",
 			"default": true,
@@ -5626,7 +5626,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -5874,7 +5874,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Reboot On Url Change",
+			"displayName": "Reboot On URL Change",
 			"name": "reboot_on_url_change",
 			"type": "boolean",
 			"default": true,
@@ -6024,7 +6024,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url Change Mode",
+			"displayName": "URL Change Mode",
 			"name": "url_change_mode",
 			"type": "string",
 			"default": "",
@@ -6049,7 +6049,7 @@ export const userDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url Mode",
+			"displayName": "URL Mode",
 			"name": "url_mode",
 			"type": "string",
 			"default": "",

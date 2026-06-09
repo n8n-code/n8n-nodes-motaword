@@ -8,7 +8,7 @@ import type {
 export class MotawordApi implements ICredentialType {
 	name = 'N8nDevMotawordApi';
 
-	displayName = 'motaword API';
+	displayName = 'Motaword API';
 
 	icon: Icon = { light: 'file:../nodes/Motaword/motaword.png', dark: 'file:../nodes/Motaword/motaword.dark.png' };
 
@@ -22,7 +22,7 @@ export class MotawordApi implements ICredentialType {
 			default: 'https://api.motaword.com',
 			required: true,
 			placeholder: 'https://api.motaword.com',
-			description: 'The base URL of your motaword API server',
+			description: 'The base URL of your Motaword API server',
 		},
 		{
 			displayName: 'API Key',

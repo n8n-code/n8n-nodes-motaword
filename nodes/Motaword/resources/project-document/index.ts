@@ -121,7 +121,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -183,7 +183,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -295,7 +295,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -313,7 +313,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -350,7 +350,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -368,7 +368,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -430,7 +430,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -448,7 +448,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -559,7 +559,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -577,7 +577,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -614,7 +614,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -632,7 +632,7 @@ export const projectDocumentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",

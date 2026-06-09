@@ -135,7 +135,7 @@ export const paymentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Card Id",
+			"displayName": "Card ID",
 			"name": "cardId",
 			"required": true,
 			"description": "Credit Card ID",
@@ -172,7 +172,7 @@ export const paymentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Card Id",
+			"displayName": "Card ID",
 			"name": "cardId",
 			"required": true,
 			"description": "Credit Card ID",
@@ -209,7 +209,7 @@ export const paymentDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Card Id",
+			"displayName": "Card ID",
 			"name": "cardId",
 			"required": true,
 			"description": "Credit Card ID",

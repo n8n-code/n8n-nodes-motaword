@@ -99,8 +99,8 @@ export const corporateDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Corporate By Id",
-					"value": "Get Corporate By Id",
+					"name": "Get Corporate By ID",
+					"value": "Get Corporate By ID",
 					"action": "Get details of this corporate account",
 					"description": "Get details of this corporate account",
 					"routing": {
@@ -111,8 +111,8 @@ export const corporateDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Available Corporate Permissions By Id",
-					"value": "Get Available Corporate Permissions By Id",
+					"name": "Get Available Corporate Permissions By ID",
+					"value": "Get Available Corporate Permissions By ID",
 					"action": "Get a list of available permissions for this corporate account. They are used when assigning permissions to corporate users.",
 					"description": "Get a list of available permissions for this corporate account. They are used when assigning permissions to corporate users.",
 					"routing": {
@@ -123,8 +123,8 @@ export const corporateDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Corporate User Groups By Id",
-					"value": "Get Corporate User Groups By Id",
+					"name": "Get Corporate User Groups By ID",
+					"value": "Get Corporate User Groups By ID",
 					"action": "Get a list of user groups for this corporate account",
 					"description": "Get a list of user groups for this corporate account",
 					"routing": {
@@ -135,8 +135,8 @@ export const corporateDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Save Corporate User Group By Id",
-					"value": "Save Corporate User Group By Id",
+					"name": "Save Corporate User Group By ID",
+					"value": "Save Corporate User Group By ID",
 					"action": "Create or update a corporate user group for this corporate account",
 					"description": "Create or update a corporate user group for this corporate account",
 					"routing": {
@@ -147,8 +147,8 @@ export const corporateDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Corporate Users By Id",
-					"value": "Get Corporate Users By Id",
+					"name": "Get Corporate Users By ID",
+					"value": "Get Corporate Users By ID",
 					"action": "Get a list of users for this corporate account",
 					"description": "Get a list of users for this corporate account",
 					"routing": {
@@ -238,7 +238,7 @@ export const corporateDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporate_id",
 			"type": "number",
 			"default": 0,
@@ -262,7 +262,7 @@ export const corporateDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -420,13 +420,13 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Get Corporate By Id"
+						"Get Corporate By ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporateId",
 			"required": true,
 			"description": "Corporate ID",
@@ -438,7 +438,7 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Get Corporate By Id"
+						"Get Corporate By ID"
 					]
 				}
 			}
@@ -457,13 +457,13 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Get Available Corporate Permissions By Id"
+						"Get Available Corporate Permissions By ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporateId",
 			"required": true,
 			"description": "Corporate ID",
@@ -475,7 +475,7 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Get Available Corporate Permissions By Id"
+						"Get Available Corporate Permissions By ID"
 					]
 				}
 			}
@@ -494,13 +494,13 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Get Corporate User Groups By Id"
+						"Get Corporate User Groups By ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporateId",
 			"required": true,
 			"description": "Corporate ID",
@@ -512,7 +512,7 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Get Corporate User Groups By Id"
+						"Get Corporate User Groups By ID"
 					]
 				}
 			}
@@ -531,13 +531,13 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Save Corporate User Group By Id"
+						"Save Corporate User Group By ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporateId",
 			"required": true,
 			"description": "Corporate ID",
@@ -549,13 +549,13 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Save Corporate User Group By Id"
+						"Save Corporate User Group By ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporate_id",
 			"type": "number",
 			"default": 0,
@@ -573,13 +573,13 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Save Corporate User Group By Id"
+						"Save Corporate User Group By ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -597,7 +597,7 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Save Corporate User Group By Id"
+						"Save Corporate User Group By ID"
 					]
 				}
 			}
@@ -621,7 +621,7 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Save Corporate User Group By Id"
+						"Save Corporate User Group By ID"
 					]
 				}
 			}
@@ -645,7 +645,7 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Save Corporate User Group By Id"
+						"Save Corporate User Group By ID"
 					]
 				}
 			}
@@ -664,13 +664,13 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Get Corporate Users By Id"
+						"Get Corporate Users By ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Corporate Id",
+			"displayName": "Corporate ID",
 			"name": "corporateId",
 			"required": true,
 			"description": "Corporate ID",
@@ -682,7 +682,7 @@ export const corporateDescription: INodeProperties[] = [
 						"Corporate"
 					],
 					"operation": [
-						"Get Corporate Users By Id"
+						"Get Corporate Users By ID"
 					]
 				}
 			}

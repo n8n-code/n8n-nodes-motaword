@@ -49,7 +49,7 @@ export const machineLearningDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"type": "number",
 			"default": 0,

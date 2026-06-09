@@ -133,7 +133,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -195,7 +195,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -258,7 +258,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -276,7 +276,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Style Guide Id",
+			"displayName": "Style Guide ID",
 			"name": "styleGuideId",
 			"required": true,
 			"description": "Style Guide ID",
@@ -313,7 +313,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -331,7 +331,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Style Guide Id",
+			"displayName": "Style Guide ID",
 			"name": "styleGuideId",
 			"required": true,
 			"description": "Style Guide ID",
@@ -393,7 +393,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -411,7 +411,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Style Guide Id",
+			"displayName": "Style Guide ID",
 			"name": "styleGuideId",
 			"required": true,
 			"description": "Style guide ID",
@@ -474,7 +474,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -492,7 +492,7 @@ export const styleGuideDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Style Guide Id",
+			"displayName": "Style Guide ID",
 			"name": "styleGuideId",
 			"required": true,
 			"description": "Style Guide ID",

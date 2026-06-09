@@ -85,7 +85,7 @@ export const projectWebhooksDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -122,7 +122,7 @@ export const projectWebhooksDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -159,7 +159,7 @@ export const projectWebhooksDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -177,7 +177,7 @@ export const projectWebhooksDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Callback Url",
+			"displayName": "Callback URL",
 			"name": "callback_url",
 			"type": "string",
 			"default": "",
@@ -221,7 +221,7 @@ export const projectWebhooksDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -239,7 +239,7 @@ export const projectWebhooksDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Callback Url",
+			"displayName": "Callback URL",
 			"name": "callback_url",
 			"type": "string",
 			"default": "",

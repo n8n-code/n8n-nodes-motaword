@@ -39,8 +39,8 @@ export const projectDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Quote Id From Internal Id",
-					"value": "Get Quote Id From Internal Id",
+					"name": "Get Quote ID From Internal ID",
+					"value": "Get Quote ID From Internal ID",
 					"action": "Get Quote Id",
 					"description": "Get Quote Id",
 					"routing": {
@@ -195,8 +195,8 @@ export const projectDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Download Html Invoice",
-					"value": "Download Html Invoice",
+					"name": "Download HTML Invoice",
+					"value": "Download HTML Invoice",
 					"action": "Download project invoice (HTML)",
 					"description": "Download your project invoice as HTML. This is useful when you want to show your users the invoice in a webpage.",
 					"routing": {
@@ -207,8 +207,8 @@ export const projectDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Download Pdf Invoice",
-					"value": "Download Pdf Invoice",
+					"name": "Download PDF Invoice",
+					"value": "Download PDF Invoice",
 					"action": "Download project invoice (PDF)",
 					"description": "Download your project invoice as PDF. Your invoice may be in \"unpaid\" status, in which case youn can see the payment instructions in the PDF file.",
 					"routing": {
@@ -315,8 +315,8 @@ export const projectDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Vendor Projects By User Id",
-					"value": "Get Vendor Projects By User Id",
+					"name": "Get Vendor Projects By User ID",
+					"value": "Get Vendor Projects By User ID",
 					"action": "Get a list of user/vendor projects",
 					"description": "Get a list of user/vendor projects",
 					"routing": {
@@ -503,7 +503,7 @@ export const projectDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Id",
+					"name": "ID",
 					"value": "id"
 				},
 				{
@@ -617,7 +617,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Callback Url",
+			"displayName": "Callback URL",
 			"name": "callback_url",
 			"type": "string",
 			"default": "",
@@ -828,13 +828,13 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Get Quote Id From Internal Id"
+						"Get Quote ID From Internal ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -846,7 +846,7 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Get Quote Id From Internal Id"
+						"Get Quote ID From Internal ID"
 					]
 				}
 			}
@@ -988,7 +988,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1025,7 +1025,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1087,7 +1087,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1105,7 +1105,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Callback Url",
+			"displayName": "Callback URL",
 			"name": "callback_url",
 			"type": "string",
 			"default": "",
@@ -1247,7 +1247,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1265,7 +1265,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "user_id",
 			"type": "number",
 			"default": 0,
@@ -1308,7 +1308,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1377,7 +1377,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1439,7 +1439,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1476,7 +1476,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1513,7 +1513,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1568,7 +1568,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1605,7 +1605,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1636,13 +1636,13 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Download Html Invoice"
+						"Download HTML Invoice"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1654,7 +1654,7 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Download Html Invoice"
+						"Download HTML Invoice"
 					]
 				}
 			}
@@ -1673,13 +1673,13 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Download Pdf Invoice"
+						"Download PDF Invoice"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1691,7 +1691,7 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Download Pdf Invoice"
+						"Download PDF Invoice"
 					]
 				}
 			}
@@ -1716,7 +1716,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1784,7 +1784,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Card Id",
+			"displayName": "Card ID",
 			"name": "card_id",
 			"type": "number",
 			"default": 0,
@@ -1925,7 +1925,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -1987,7 +1987,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -2049,7 +2049,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -2129,7 +2129,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -2191,7 +2191,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -2228,7 +2228,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -2315,7 +2315,7 @@ export const projectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -2346,13 +2346,13 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Get Vendor Projects By User Id"
+						"Get Vendor Projects By User ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "User ID",
@@ -2364,7 +2364,7 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Get Vendor Projects By User Id"
+						"Get Vendor Projects By User ID"
 					]
 				}
 			}
@@ -2389,7 +2389,7 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Get Vendor Projects By User Id"
+						"Get Vendor Projects By User ID"
 					]
 				}
 			}
@@ -2414,7 +2414,7 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Get Vendor Projects By User Id"
+						"Get Vendor Projects By User ID"
 					]
 				}
 			}
@@ -2438,7 +2438,7 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Get Vendor Projects By User Id"
+						"Get Vendor Projects By User ID"
 					]
 				}
 			}
@@ -2462,7 +2462,7 @@ export const projectDescription: INodeProperties[] = [
 						"Project"
 					],
 					"operation": [
-						"Get Vendor Projects By User Id"
+						"Get Vendor Projects By User ID"
 					]
 				}
 			}

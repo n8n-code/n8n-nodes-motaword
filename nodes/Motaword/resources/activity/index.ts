@@ -121,7 +121,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -224,7 +224,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Project ID",
@@ -334,7 +334,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -419,7 +419,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -437,7 +437,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Activity Id",
+			"displayName": "Activity ID",
 			"name": "activityId",
 			"required": true,
 			"description": "Activity ID",
@@ -474,7 +474,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -492,7 +492,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Activity Id",
+			"displayName": "Activity ID",
 			"name": "activityId",
 			"required": true,
 			"description": "Activity ID",
@@ -561,7 +561,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -631,7 +631,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -649,7 +649,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Activity Id",
+			"displayName": "Activity ID",
 			"name": "activityId",
 			"required": true,
 			"description": "Activity ID",
@@ -686,7 +686,7 @@ export const activityDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",

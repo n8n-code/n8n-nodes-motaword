@@ -570,7 +570,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -931,7 +931,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -968,7 +968,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous Project ID",
@@ -1005,7 +1005,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1210,7 +1210,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1247,7 +1247,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1265,7 +1265,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Anonymous Id",
+			"displayName": "Anonymous ID",
 			"name": "anonymousId",
 			"type": "string",
 			"default": "",
@@ -1313,7 +1313,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Session Id",
+			"displayName": "Session ID",
 			"name": "sessionId",
 			"type": "string",
 			"default": "",
@@ -1361,7 +1361,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"type": "string",
 			"default": "",
@@ -1404,7 +1404,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1441,7 +1441,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1502,7 +1502,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1520,7 +1520,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -1557,7 +1557,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1575,7 +1575,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID",
@@ -1612,7 +1612,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1673,7 +1673,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1728,7 +1728,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1783,7 +1783,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1820,7 +1820,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1857,7 +1857,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -1950,7 +1950,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Plan Id",
+			"displayName": "Plan ID",
 			"name": "plan_id",
 			"type": "string",
 			"default": "",
@@ -2099,7 +2099,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Subscription Id",
+			"displayName": "Subscription ID",
 			"name": "subscription_id",
 			"type": "string",
 			"default": "",
@@ -2193,7 +2193,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -2286,7 +2286,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Plan Id",
+			"displayName": "Plan ID",
 			"name": "plan_id",
 			"type": "string",
 			"default": "",
@@ -2435,7 +2435,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Subscription Id",
+			"displayName": "Subscription ID",
 			"name": "subscription_id",
 			"type": "string",
 			"default": "",
@@ -2529,7 +2529,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -2622,7 +2622,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Plan Id",
+			"displayName": "Plan ID",
 			"name": "plan_id",
 			"type": "string",
 			"default": "",
@@ -2771,7 +2771,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Subscription Id",
+			"displayName": "Subscription ID",
 			"name": "subscription_id",
 			"type": "string",
 			"default": "",
@@ -2865,7 +2865,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Continuous project ID",
@@ -3019,7 +3019,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous Project ID",
@@ -3080,7 +3080,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous project ID",
@@ -3141,7 +3141,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous project ID",
@@ -3226,7 +3226,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous project ID",
@@ -3244,7 +3244,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID/Name",
@@ -3281,7 +3281,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous project ID",
@@ -3299,7 +3299,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Continuous project document ID",
@@ -3360,7 +3360,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous project ID",
@@ -3378,7 +3378,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Document Id",
+			"displayName": "Document ID",
 			"name": "documentId",
 			"required": true,
 			"description": "Document ID/Name",
@@ -3439,7 +3439,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -3476,7 +3476,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Project ID",
@@ -3537,7 +3537,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous Project ID",
@@ -3574,7 +3574,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous project ID",
@@ -3592,7 +3592,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Allow Hash In Url",
+			"displayName": "Allow Hash In URL",
 			"name": "allow_hash_in_url",
 			"type": "boolean",
 			"default": true,
@@ -3617,7 +3617,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Allow Query In Url",
+			"displayName": "Allow Query In URL",
 			"name": "allow_query_in_url",
 			"type": "boolean",
 			"default": true,
@@ -3767,7 +3767,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -4015,7 +4015,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Reboot On Url Change",
+			"displayName": "Reboot On URL Change",
 			"name": "reboot_on_url_change",
 			"type": "boolean",
 			"default": true,
@@ -4165,7 +4165,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url Change Mode",
+			"displayName": "URL Change Mode",
 			"name": "url_change_mode",
 			"type": "string",
 			"default": "",
@@ -4190,7 +4190,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url Mode",
+			"displayName": "URL Mode",
 			"name": "url_mode",
 			"type": "string",
 			"default": "",
@@ -4309,7 +4309,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous Project ID",
@@ -4327,7 +4327,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Widget Id",
+			"displayName": "Widget ID",
 			"name": "widgetId",
 			"required": true,
 			"description": "Active widget ID belonging to this Continuous Project",
@@ -4364,7 +4364,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous Project ID",
@@ -4382,7 +4382,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Widget Id",
+			"displayName": "Widget ID",
 			"name": "widgetId",
 			"required": true,
 			"description": "Active widget ID belonging to this Continuous Project",
@@ -4419,7 +4419,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous Project ID",
@@ -4437,7 +4437,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Widget Id",
+			"displayName": "Widget ID",
 			"name": "widgetId",
 			"required": true,
 			"description": "Active widget ID belonging to this Continuous Project",
@@ -4455,7 +4455,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Allow Hash In Url",
+			"displayName": "Allow Hash In URL",
 			"name": "allow_hash_in_url",
 			"type": "boolean",
 			"default": true,
@@ -4480,7 +4480,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Allow Query In Url",
+			"displayName": "Allow Query In URL",
 			"name": "allow_query_in_url",
 			"type": "boolean",
 			"default": true,
@@ -4630,7 +4630,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -4878,7 +4878,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Reboot On Url Change",
+			"displayName": "Reboot On URL Change",
 			"name": "reboot_on_url_change",
 			"type": "boolean",
 			"default": true,
@@ -5028,7 +5028,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url Change Mode",
+			"displayName": "URL Change Mode",
 			"name": "url_change_mode",
 			"type": "string",
 			"default": "",
@@ -5053,7 +5053,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url Mode",
+			"displayName": "URL Mode",
 			"name": "url_mode",
 			"type": "string",
 			"default": "",
@@ -5172,7 +5172,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Project Id",
+			"displayName": "Project ID",
 			"name": "projectId",
 			"required": true,
 			"description": "Continuous Project ID",
@@ -5190,7 +5190,7 @@ export const continuousProjectDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Widget Id",
+			"displayName": "Widget ID",
 			"name": "widgetId",
 			"required": true,
 			"description": "Active widget ID belonging to this Continuous Project",
