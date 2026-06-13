@@ -28,32 +28,32 @@ import { vendorDescription } from './resources/vendor';
 import { defaultDescription } from './resources/default';
 
 export class Motaword implements INodeType {
-	description: INodeTypeDescription = {
-		displayName: 'Motaword',
-		name: 'N8nDevMotaword',
-		icon: { light: 'file:./motaword.png', dark: 'file:./motaword.dark.png' },
-		group: ['input'],
-		version: 1,
-		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'Use MotaWord API to post and track your translation projects',
-		defaults: { name: 'Motaword' },
-		usableAsTool: true,
-		inputs: [NodeConnectionTypes.Main],
-		outputs: [NodeConnectionTypes.Main],
-		credentials: [
-			{
-				name: 'N8nDevMotawordApi',
-				required: true,
-			},
-		],
-		requestDefaults: {
-			baseURL: '={{\$credentials.url}}',
-			headers: {
-				Accept: 'application/json',
-				'Content-Type': 'application/json',
-			},
-		},
-		properties: [
+        description: INodeTypeDescription = {
+                displayName: 'Motaword',
+                name: 'N8nDevMotaword',
+                icon: { light: 'file:./motaword.png', dark: 'file:./motaword.dark.png' },
+                group: ['input'],
+                version: 1,
+                subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
+                description: 'Use MotaWord API to manage translation projects.',
+                defaults: { name: 'Motaword' },
+                usableAsTool: true,
+                inputs: [NodeConnectionTypes.Main],
+                outputs: [NodeConnectionTypes.Main],
+                credentials: [
+                        {
+                                name: 'N8nDevMotawordApi',
+                                required: true,
+                        },
+                ],
+                requestDefaults: {
+                        baseURL: '={{\$credentials.url}}',
+                        headers: {
+                                Accept: 'application/json',
+                                'Content-Type': 'application/json',
+                        },
+                },
+                properties: [
 		{
 			"displayName": "Resource",
 			"name": "resource",
@@ -225,6 +225,6 @@ export class Motaword implements INodeType {
 		...authDescription,
 		...vendorDescription,
 		...defaultDescription
-		],
-	};
+                ],
+        };
 }
